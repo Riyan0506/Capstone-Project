@@ -57,7 +57,7 @@ Proses penulisan laporan, dokumentasi, serta pembuatan presentasi dibantu dengan
 ---
 
 ## 🚀 Notebook
-Link Google Colab: [Klik di sini]([https://colab.research.google.com/https://colab.research.google.com/drive/1wXOlvh-xlRhtuEcJU_RRxSQPkzXG5ZM9?usp=sharing])  
+Link Google Colab: [Klik di sini](https://colab.research.google.com/https://colab.research.google.com/drive/1wXOlvh-xlRhtuEcJU_RRxSQPkzXG5ZM9?usp=sharing)   
 
 ---
 
