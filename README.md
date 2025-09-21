@@ -9,7 +9,7 @@ Analisis dilakukan untuk mengetahui persepsi pengguna terhadap layanan Shopee, a
 
 ## 📂 Dataset
 Dataset berisi ulasan pengguna aplikasi Shopee.  
-Link dataset: [Klik di sini](https://drive.google.com/https://www.kaggle.com/datasets/herafajrin/shopee-review-indonesian)    
+Link dataset: [Klik di sini](https://www.kaggle.com/datasets/herafajrin/shopee-review-indonesian)    
 
 ---
 
@@ -57,7 +57,7 @@ Proses penulisan laporan, dokumentasi, serta pembuatan presentasi dibantu dengan
 ---
 
 ## 🚀 Notebook
-Link Google Colab: [Klik di sini](https://colab.research.google.com/https://colab.research.google.com/drive/1wXOlvh-xlRhtuEcJU_RRxSQPkzXG5ZM9?usp=sharing)   
+Link Google Colab: [Klik di sini](https://colab.research.google.com/drive/1wXOlvh-xlRhtuEcJU_RRxSQPkzXG5ZM9?usp=sharing)   
 
 ---
 
