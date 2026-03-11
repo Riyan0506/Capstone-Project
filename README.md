@@ -1,6 +1,6 @@
 # Capstone-Project
 
-# ANALISIS SENTIMEN ULASAN SHOPEE DENGAN MACHINE LEARNING DAN AI SUPPOR
+# ANALISIS SENTIMEN ULASAN SHOPEE DENGAN MACHINE LEARNING DAN AI SUPPORT
 
 Proyek ini bertujuan untuk menganalisis sentimen ulasan pengguna pada aplikasi **Shopee** menggunakan pendekatan machine learning.  
 Analisis dilakukan untuk mengetahui persepsi pengguna terhadap layanan Shopee, apakah cenderung **positif** atau **negatif**.
