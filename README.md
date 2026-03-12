@@ -1,4 +1,4 @@
-# Capstone-Project
+# Sentiment-Analyst_Shopee
 
 # ANALISIS SENTIMEN ULASAN SHOPEE DENGAN MACHINE LEARNING DAN AI SUPPORT
 
